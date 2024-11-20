@@ -53,6 +53,12 @@ blankdots:
     orcid: 0000-0002-6544-5022
     elixir_node: fi
 
+brane007:
+    name: Brane Leskošek
+    email: brane.leskosek@mf.uni-lj.si
+    orcid: 0000-0001-5202-2349
+    elixir_node: si
+
 d-salgado:
     name: David Salgado
     email: david.salgado@france-bioinformatique.fr
@@ -66,11 +72,28 @@ ealloza:
     orcid: 0000-0001-8385-9336
     elixir_node: es
 
+fracassandocasualmente:
+    name: Miguel Conrado Santos
+    email: miguel.conrado.santos@tecnico.ulisboa.pt
+    elixir_node: pt
+
 jmenglund:
     name: Markus Englund
     email: markus.englund@nbis.se
     orcid: 0000-0003-1688-7112
     elixir_node: se
+
+kjellp:
+    name: Kjell Petersen
+    email: kjell.petersen@uib.no
+    orcid: 0000-0001-5201-0268
+    elixir_node: no
+
+kkochel:
+    name: Krzysztof Kochel
+    email: krzysztof.kochel@biol.uni.lodz.pl
+    orcid: 0009-0006-0772-3916
+    elixir_node:
 
 lauportell:
     name: Laura Portell Silva
@@ -78,6 +101,12 @@ lauportell:
     orcid: 0000-0003-0390-3208
     elixir_node: es
 
+lgadelha:
+    name: Luiz Gadelha
+    email: luiz.gadelha@dkfz-heidelberg.de
+    orcid: 0000-0002-8122-9522
+    elixir_node: de
+    
 lilachic:
     name: Liisa Lado-Villar
     email: liisa.lado-villar@csc.fi
@@ -97,6 +126,12 @@ m-casado:
     email: mcasado@ebi.ac.uk
     orcid: 0000-0002-7747-6256
     elixir_node: embl
+
+nanjiangshu:
+    name: Nanjiang Shu
+    email: nanjiang.shu@scilifelab.se
+    orcid: 0000-0002-3537-2387
+    elixir_node: se
 
 silviabah:
     name: Silvia Bahena Hernandez
