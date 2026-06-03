@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Establishing a Federated EGA Node
+title: Joining the Federated EGA Network
 nav_order: 1
 ---
 
 <img src="./assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="140"  align="right" />
 
-# Establishing a Federated EGA Node
+# Joining the Federated EGA Network
 
-Welcome to this collection of onboarding materials for establishing a Federated EGA Node!
+Welcome to this collection of onboarding materials for joining the Federated EGA Network!
 
 ## What am I doing here?
 
 If you are reading this, you are probably looking for information on how to join the Federated EGA. Great! There is a lot of information here for you.
 
-These materials provide guidance for establishing a Node within the Federated EGA. The materials are based on the knowledge and experiences of current Nodes and their use cases. Your Node's development might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
+These materials provide guidance for joining the Federated EGA Network. The materials are based on the knowledge and experiences of current Nodes and their use cases. Your onboarding journey might differ depending on your use cases and mandates from stakeholders. Please view these materials as suggestions and best practices - not hard requirements!
 
 ## What is Federated EGA (FEGA)?
 
@@ -22,35 +22,35 @@ These materials provide guidance for establishing a Node within the Federated EG
 
 Our values are: 
 
-  **Privacy & Trust**: Ensuring privacy of data subjects, security of services and acting with integrity to build community trust.
+*  **Privacy & Trust**: Ensuring privacy of data subjects, security of services and acting with integrity to build community trust.
     
-  **FAIRness**: Driving reuse of data through standardisation of metadata and clear access policies.
+*  **FAIRness**: Driving reuse of data through standardisation of metadata and clear access policies.
    
-  **Diversity**: Expanding our network and representing global diversity in the data we host to bring benefits worldwide.
-
-
-Summary of responsibilities of the Central EGA (EMBL-EBI & CRG) and Federated EGA Nodes (national/local jurisdictions):
-
-| Central EGA | Federated EGA Node |
-| ---------------- | ------------------ |
-| Hosts data | Hosts and/or owns data |
-| Shares metadata and provides global discovery | Shares metadata to enable global discovery |
-| Accepts data from all around the world | Accepts 3rd party data from jurisdiction |
-| Has Helpdesk for Central EGA data | Has Helpdesk responsible for own data/jurisdiction |
-| Chairs the Federated EGA Committees | Participates actively in the Federated EGA Committees |
-| No time commitment for FEGA | Expected to stay in FEGA for at least 4 years |
-
-
-<br/><br/>
-
+*  **Diversity**: Expanding our network and representing global diversity in the data we host to bring benefits worldwide.
 
 ## What are the benefits of joining Federated EGA?
 
-* **Globally Accepted Standards**. Federated EGA develops and follows interoperable global standards for human data access accepted by the <a href="https://www.ga4gh.org/" target="_blank">Global Alliance for Genomics & Health (GA4GH)</a>. This commitment makes the whole service trustworthy for the most demanding data submitters, often concerned with data security and privacy. 
+* **Globally Accepted Standards**. Federated EGA develops and follows interoperable global standards for human data access accepted by the <a href="https://www.ga4gh.org/" target="_blank">Global Alliance for Genomics & Health (GA4GH)</a>. This commitment makes the whole service trustworthy for the most demanding data submitters, often concerned with data security and privacy.
+
 * **Built with FAIR in mind**. Federated EGA is deeply commited to the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR principles</a>. By abbiding to FAIR you ensure that your data has the necessary Findability, Accessibility, Interoperability, and Reuseability to meet requirements of funders.
+
 * **Enhanced Discoverability**. Your (meta)data will be available in a global catalog, maximizing its discoverability.
+
 * **Aligned with most relevant data initiatives**. Many health data related projects are now under way, in particular the <a href="https://gdi.onemilliongenomes.eu/" target="_blank">Genomic Data Infrastructure (GDI)</a> and the <a href="https://www.european-health-data-space.com/" target="_blank">European Health Data Space (EHDS)</a>. These projects use FEGA like architectures for data storage and distribution, once again proving the quality of this design.
 * **Network of Experts**. By joining Federated EGA, you will be part of a network of experts, making sure to stay up to date with the State-of-Art on Data Sharing.
+
+## Summary of responsibilities
+
+Summary of responsibilities of the Central EGA (EMBL-EBI & CRG), Federated EGA Nodes and Federated EGA Affiliates:
+
+<img src="./assets/img/FEGA-summary-table-Central_Federated_Affiliates.png" alt="Summary of responsibilities of the Central EGA, Federated EGA Nodes, and Federated EGA Affiliates." width="1200" />
+
+The onboarding materials below are designed for establishing a **Federated EGA Node**. We are in the process of incorporating **Affiliate** specific material, but until then please find more information about becoming a FEGA Affiliate in the following:
+* [Introducing Federated EGA Affiliates: a newly defined tier in the Federated EGA Network](https://blog.ega-archive.org/fega-affiliates)
+
+* [Everything you need to know about Federated EGA Affiliates: Q&A](https://blog.ega-archive.org/fega-affiliates-q&a)
+
+* [FEGA Affiliate Collaboration Agreement](https://drive.google.com/file/d/18paT5cRVuSY9pGtLNp9A4Gjsi8HiHjEw/view?usp=sharing) (v1.0)
 
 ## How do I start?
 
