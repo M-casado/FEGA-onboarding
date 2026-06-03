@@ -56,6 +56,7 @@ Welcome! If you are involved in outreach, communications, or training aspects of
 - <a href="https://elixir-europe.org/news/human-data-linkage" target="_blank">FEGA-Connect was launched in December 2024, aiming to develop solutions to link multi-omic sensitive data deposition databases, biobanks and derived knowledge resources.</a> (December 2024)
 - <a href="https://blog.ega-archive.org/first-datasets-available-in-Federated-EGA" target="_blank">First datasets availables in the Federated EGA Network</a> (February 2024)
 - <a href="https://elixir-europe.org/news/federated_ega" target="_blank">The EGA announced the first signings of the Collaboration Agreement between national Nodes and Central EGA, an important step in the formation of Federated EGA</a> (21 September 2022)
+- ELIXIR AHM 2023 workshop "Demonstrating Federated EGA starter kit for sensitive data submission, discovery, and access" (<a href="https://docs.google.com/document/d/1TUmGjWe4nrt6bkj3shDjBOWEOcujW1OJc_zUg1IAFyc/edit" target="_blank">agenda</a> and <a href="https://docs.google.com/presentation/d/1ehEJbgl3hOyruxS4mtr1Hzm4bHfL5FHNjmgCJ5PXQ1E" target="_blank">slides</a>). Relevant for new nodes learning about current FEGA services and example implementations.</p>
 
 ## 4. What's next?
 
