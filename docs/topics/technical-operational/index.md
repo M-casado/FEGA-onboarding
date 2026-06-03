@@ -23,6 +23,7 @@ Welcome! If you are involved in technical or operational aspects of establishing
 - Interact with Central EGA using RabbitMQ
 - Evaluate your Node implementation using the FEGA Maturity Model
 - Plan your Node <a href="https://docs.google.com/document/d/1r5bm-8vVeN0zTpWQZdfBsMFCwy2RJlspsCdNOzCuZD8/" target="_blank">end-to-end demonstrator</a>
+  - You may find the <a href="https://drive.google.com/file/d/1VNOPY0DDLwUV6TJ65Io7PXPkwr-b0pHx/view" target="_blank">Swiss node end-to-end demonstration script</a> useful to make preparing the demo easier.
 
 ## 1. Identify Node requirements
 
