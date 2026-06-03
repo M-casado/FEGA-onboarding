@@ -55,3 +55,17 @@ details > summary::-webkit-details-marker {
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
   color: #185177;
 }
+
+.video-embed {
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 24px 0;
+}
+
+.video-embed iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
