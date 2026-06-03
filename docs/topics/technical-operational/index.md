@@ -41,7 +41,7 @@ More information about the Local EGA software and its implementation can be foun
 
 ### Standard Operating Procedures (SOPs)
 
-It is useful to establish SOPs for common Node operational tasks to enable consistent service delivery and streamline internal processes. Use this <a href="https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg/edit?usp=sharing" target="_blank">template to develop SOPs for your own Node</a>.
+It is useful to establish SOPs for common Node operational tasks to enable consistent service delivery and streamline internal processes. Use the [Federated EGA SOP template v1.1](templates/federated-ega-sop-template.md) as a stable Markdown copy, or use the <a href="https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg" target="_blank">editable Google Doc template</a> to make a copy and adapt it for your own Node.
 
 Standard interactions between Central EGA and Federated EGA Node Helpdesk staff have been developed into a set of SOPs. Follow these SOPs below.
 
