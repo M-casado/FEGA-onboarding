@@ -19,3 +19,14 @@
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
   color: #155177;
 }
+
+.video-embed {
+  margin: 24px 0;
+}
+
+.video-embed iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+}

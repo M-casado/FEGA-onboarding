@@ -39,6 +39,10 @@ Our values are:
 * **Aligned with most relevant data initiatives**. Many health data related projects are now under way, in particular the <a href="https://gdi.onemilliongenomes.eu/" target="_blank">Genomic Data Infrastructure (GDI)</a> and the <a href="https://www.european-health-data-space.com/" target="_blank">European Health Data Space (EHDS)</a>. These projects use FEGA like architectures for data storage and distribution, once again proving the quality of this design.
 * **Network of Experts**. By joining Federated EGA, you will be part of a network of experts, making sure to stay up to date with the State-of-Art on Data Sharing.
 
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/bRFHyI6hnNk" title="Federated EGA, a resource for discovery and access of human data across national borders" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Summary of responsibilities
 
 Summary of responsibilities of the Central EGA (EMBL-EBI & CRG), Federated EGA Nodes and Federated EGA Affiliates:
