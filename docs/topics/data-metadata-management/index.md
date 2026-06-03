@@ -18,13 +18,13 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 **By exploring these materials, you will be able to:**
 - Define data security and access management best practices
-- Understand the EGA metadata standard and it's minimal requirements
+- Understand the EGA metadata standard and its minimal requirements
 - Identify data models specific to a domain (*e.g.* COVID-19) and apply them when needed
 - Comprehend the (meta)data flow within the Federated EGA Network
 
 ## 1. Learn about data security best practices
 
-Central EGA has a <a href="https://ega-archive.org/assets/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the <a href="https://www.ga4gh.org/product/data-security-infrastructure-policy/" target="_blank">GA4GH Data Security Infrastructure Policy</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/document/privacy-and-security-policy/" target="_blank">GA4GH Privacy and Security Policy</a>.
+Central EGA has a <a href="https://ega-archive.org/assets/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined in the <a href="https://www.ga4gh.org/product/data-security-infrastructure-policy/" target="_blank">GA4GH Data Security Infrastructure Policy</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/document/privacy-and-security-policy/" target="_blank">GA4GH Privacy and Security Policy</a>.
 
 Summary of best practices recommended for Federated EGA Nodes:
 
@@ -37,7 +37,7 @@ Summary of best practices recommended for Federated EGA Nodes:
 
 ## 2. Explore implemented standards
 
-Central EGA largely adhere to <a href="https://ega-archive.org/about/projects-and-funders/ga4gh/" target="_blank">GA4GH standards</a>. Specific standards already implemented are summarised below:
+Central EGA largely adheres to <a href="https://ega-archive.org/about/projects-and-funders/ga4gh/" target="_blank">GA4GH standards</a>. Specific standards already implemented are summarised below:
 
 | Standard | Purpose | Specification Version | Supported Version | Implementation | Publication/Preprint |
 |:---|:---|:---|:---|:---|:---|

@@ -1,5 +1,5 @@
 ---
-excerpt: Federated EGA node governance, strategic planning, sustainability, and legal
+excerpt: Federated EGA Node governance, strategic planning, sustainability, and legal
 layout: default
 title: Governance and Legal
 nav_order: 5
@@ -29,12 +29,12 @@ Welcome! If you are involved in governance or legal aspects of establishing a Fe
 
 **Federated EGA is a global network of repositories enabling secure discovery and access to sensitive human data. Our vision is to accelerate scientific discovery and healthcare breakthroughs by creating the go-to worldwide sensitive human data resource.**
 
-In the era of rapidly expanding human genomics in research and healthcare, efficient data reuse is essential to maximise benefits for society. Since 2008, the EGA has served as a resource for permanent archiving and sharing of individual-level genetic, phenotypic, and clinical data generated for biomedical research projects or in the context of research-focused healthcare systems. The increasing scale of data and the evolution of national legislations posed significant challenges to this centralised data access model. In response, the Federated EGA officially launched in 2022, and by the end of 2025 was composed of nine national Nodes worldwide and growing. 
+In the era of rapidly expanding human genomics in research and healthcare, efficient data reuse is essential to maximise benefits for society. Since 2008, the EGA has served as a resource for permanent archiving and sharing of individual-level genetic, phenotypic, and clinical data generated for biomedical research projects or in the context of research-focused healthcare systems. The increasing scale of data and the evolution of national legislations posed significant challenges to this centralised data access model. In response, the Federated EGA officially launched in 2022, and by the end of 2025 was composed of nine national Nodes worldwide and growing.
 
 
 ### Use cases
 
-Understand more about the current <a href="https://zenodo.org/record/4893063" target="_blank">use cases and architecture for Federated EGA</a>. Here you can read about the requirements and national use cases of early engaged Federated EGA Nodes which aim to be addressed by joining the Federated EGA. The report also describes how specific use cases can be supported by Federated EGA, for example by a governance structure made up of permanent committees and ad hoc working groups, the use of global and community standards, and guidelines for how data/metadata can be shared within the network. 
+Understand more about the current <a href="https://zenodo.org/record/4893063" target="_blank">use cases and architecture for Federated EGA</a>. Here you can read about the requirements and national use cases of early engaged Federated EGA Nodes which aim to be addressed by joining the Federated EGA. The report also describes how specific use cases can be supported by Federated EGA, for example by a governance structure made up of permanent committees and ad hoc working groups, the use of global and community standards, and guidelines for how data/metadata can be shared within the network.
 
 ### Organisation
 
@@ -44,7 +44,7 @@ Federated EGA is governed by two permanent committees:
 - The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
 - The **Federated EGA Operations Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> reviews operational performance and coordinates technical implementation roadmaps of the Federated EGA. The Committee receives advice from and provides operational reporting to the Federated EGA Strategic Committee.
 
-Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
+Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either committee.
 
 <img src="../../assets/img/Committees-WGroups-01.jpeg" alt="Colored diagram describing the roles of the Federated EGA committees and example working groups, and how these groups communicate with each other and with the EGA Strategic Committee." width="800"  align="center" />
 
@@ -52,7 +52,7 @@ Additional **Federated EGA Working Groups** are established, as needed. Working 
 
 ### FEGA Collaboration Agreement
 
-Inclusion in the Federated EGA is codified by signing of the <a href="https://drive.google.com/file/d/1QAKABRB5ZxAJlQSwFHaJ3e6TdtwZaCYs/view" target="_blank">**Federated EGA Collaboration Agreement**</a> (CA) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA Node. Nodes are welcome to make a copy of this current version of the CA to start its review with their legal teams and understand the responsibilities of joining FEGA. Nevertheless, this version (the one with a watermark) shall not be signed: the official version needs to be obtained from FEGA prior signing through its official channels. 
+Inclusion in the Federated EGA is codified by signing of the <a href="https://drive.google.com/file/d/1QAKABRB5ZxAJlQSwFHaJ3e6TdtwZaCYs/view" target="_blank">**Federated EGA Collaboration Agreement**</a> (CA) between Central EGA (represented by the European Molecular Biology Laboratory and Fundació Centre De Regulació Genòmica) and the Federated EGA Node. Nodes are welcome to make a copy of this current version of the CA to start its review with their legal teams and understand the responsibilities of joining FEGA. Nevertheless, this version (the one with a watermark) shall not be signed: the official version needs to be obtained from FEGA prior signing through its official channels.
 
 ### Data Processing Agreement (DPA)
 
@@ -61,13 +61,13 @@ As Central EGA is a Data Processor under GDPR definitions, all data submitters a
 
 ### Node Operations Guidelines
 
-The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years experience of establishing and operating Central EGA (EMBL-EBI and CRG). It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+The <a href="https://ega-archive.org/assets/files/Federated-EGA-Node-Operations-v2.1.pdf" target="_blank">FEGA Node Operations Guidelines</a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA Node. The document is based on more than 10 years of experience of establishing and operating Central EGA (EMBL-EBI and CRG). It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 
 ## 3. Complete steps to join Federated EGA
 
 The pathway to becoming a Federated EGA Node includes governance/legal steps (red, top-right path) that must be completed:
 
-<img src="../../assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA node needs to complete to join the Network." width="1200"  align="right" />
+<img src="../../assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Network." width="1200"  align="right" />
 &nbsp;
 
 * **Contact FEGA with intent to join**. This step can be accomplished by reaching out directly at fega-info@lists.ega-archive.org or by engaging in the ELIXIR FHD Community ("[How do I start?](../../#how-do-i-start)").
@@ -81,7 +81,7 @@ The pathway to becoming a Federated EGA Node includes governance/legal steps (re
   * <a href="https://drive.google.com/file/d/1QPqO_4-5utYt6G761KdPSMT7uOzMllxn/view?usp=sharing" target="_blank">Switzerland</a>
   * <a href="https://drive.google.com/file/d/1PzcC--fCTJ75sPVjOfemxwN2PkWisGIZ/view?usp=sharing" target="_blank">Sweden</a>
 * **Perform FEGA Maturity Model self-assessment**. This step can be accomplished by [evaluating your Node against the Maturity Model](../maturity-model/#2-evaluate-against-the-fega-maturity-model).
-* **Sign FEGA Legal Agreement**. Also called the "FEGA Collaboration Agreement", this is the final step to official join the Federated EGA. 
+* **Sign FEGA Legal Agreement**. Also called the "FEGA Collaboration Agreement", this is the final step to officially join the Federated EGA.
 
 ## 4. Explore additional resources
 

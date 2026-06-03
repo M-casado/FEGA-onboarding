@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This document describes how you can contribute to the development of onboarding materials for establishing a Federated European Genome-phenome Archive (FEGA) nodes by suggesting or requesting changes to the materials via GitHub (GH). The goal is for these materials to continue evolving over time while the Federated EGA Network is being established, making use of knowledge and expertise across the FEGA nodes. All contributions are welcome, and we aim to make contributing as easy as possible!
+This document describes how you can contribute to the development of onboarding materials for establishing Federated European Genome-phenome Archive (FEGA) Nodes by suggesting or requesting changes to the materials via GitHub (GH). The goal is for these materials to continue evolving over time while the Federated EGA Network is being established, making use of knowledge and expertise across the FEGA Nodes. All contributions are welcome, and we aim to make contributing as easy as possible!
 
 **What is in this document?**
  - Guidelines for requesting changes to FEGA onboarding materials via GH issues
@@ -18,12 +18,12 @@ This document describes how you can contribute to the development of onboarding 
  - Guidelines for reporting bugs
 
 **Who should be reading this document?**
- - Anyone contributing to establishing a FEGA node in their local jurisdiction
- - Anyone interested in improving onboarding materials for establishing a FEGA node
+ - Anyone contributing to establishing a FEGA Node in their local jurisdiction
+ - Anyone interested in improving onboarding materials for establishing a FEGA Node
 
 **What *isn't* in this document?**
 - Training materials for using FEGA services (e.g. data discovery, data submission, data access). (Coming soon!)
-- Onboarding materials for establishing a FEGA node. This information can be found [here](https://ega-archive.github.io/FEGA-onboarding/).
+- Onboarding materials for establishing a FEGA Node. This information can be found [here](https://ega-archive.github.io/FEGA-onboarding/).
 
 ## Requesting changes to FEGA onboarding materials
 
@@ -34,7 +34,7 @@ To request changes to FEGA onboarding materials, follow the steps below:
     1. The website URL or GitHub repository path of the page where the requested update/new material is to be located
     1. The requested update/new materials, including as much detail as possible
     1. Why the update/new material is being requested, including what the added value is
-        
+
 1. **Submit a request** for the change. Anyone can request changes to the onboarding materials by creating a GH issue in this repository using this ["Request change" GH template](https://github.com/EGA-archive/FEGA-onboarding/issues/new/choose). Follow the template to include the information indicated in Step 1. Please add the "requested-change" label to the issue.
 
 1. **Track progress** of the request. The request will be reviewed by members of the FEGA community. Clarification may be requested. A proposed change will be made (via a GH pull request) to address the request and will be reviewed by the FEGA community. Once the change is accepted, the pull request will be merged and the related issue will be closed.
