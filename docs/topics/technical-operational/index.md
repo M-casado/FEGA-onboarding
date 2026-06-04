@@ -41,7 +41,7 @@ More information about the Local EGA software and its implementation can be foun
 
 ### Standard Operating Procedures (SOPs)
 
-It is useful to establish SOPs for common Node operational tasks to enable consistent service delivery and streamline internal processes. Use the [Federated EGA SOP template v1.1](templates/federated-ega-sop-template.md) as a stable Markdown copy, or use the <a href="https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg" target="_blank">editable Google Doc template</a> to make a copy and adapt it for your own Node.
+It is useful to establish SOPs for common Node operational tasks to enable consistent service delivery and streamline internal processes. Use the [Federated EGA SOP template v1.1](https://github.com/EGA-archive/FEGA-onboarding/blob/main/templates/federated-ega-sop-template.md) as a stable Markdown copy, or use the <a href="https://docs.google.com/document/d/1BWPL9I9PlWiea6k-vcDDwaMu3rM5FSdV_0n8u7hAQpg" target="_blank">editable Google Doc template</a> to make a copy and adapt it for your own Node.
 
 Standard interactions between Central EGA and Federated EGA Node Helpdesk staff have been developed into a set of SOPs. Follow these SOPs below.
 
@@ -49,8 +49,8 @@ Standard interactions between Central EGA and Federated EGA Node Helpdesk staff 
 
 The following SOPs must be followed as part of current CEGA &harr; FEGA Node interactions during the submission process:
 
-- <a href="https://docs.google.com/document/d/1c5YfLqGjCmRlG0NF9lsuU6IWUrCq4u8Ug3Ye5xMrxtI/edit?usp=sharing" target="_blank">Federated EGA Request from submitter to submit to FEGA Node</a>
-- <a href="https://docs.google.com/document/d/1v7l_ODdh-yxyhWl8Y8R3IZC2hEy5x8KgjBQmFyEyGgw/edit?usp=sharing" target="_blank">Federated EGA Metadata Check and Release Protocol</a>
+- <a href="https://docs.google.com/document/d/19mkBJPneHRfTAHirbvWEU_I6QMiVtDDlmUyNR8Q2Yoc" target="_blank">Federated EGA Request from submitter to submit to FEGA Node</a>
+- <a href="https://docs.google.com/document/d/1pybJMfqA6splIj5t2pdky_CT1DR76gKjBYJFkRoxTxw" target="_blank">Federated EGA Metadata Check and Release Protocol</a>
 
 Central EGA Helpdesk have developed a set of SOPs to harmonise both user-facing processes and internal processes. Explore some examples of these SOPs below or organised in this <a href="https://drive.google.com/drive/folders/14yFvXOxRyGl-ENogIB5TdogIUdL-gmfk?usp=sharing" target="_blank">shared EGA Helpdesk SOP Google Drive</a>. Please note these are example SOPs and will need to be adapted to how your Node operates!
 
