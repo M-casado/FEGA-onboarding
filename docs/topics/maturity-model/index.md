@@ -2,7 +2,7 @@
 excerpt: Federated EGA Maturity Model
 layout: default
 title: Maturity Model
-nav_order: 1 
+nav_order: 1
 has_children: false
 has_toc: false
 ---
@@ -44,7 +44,6 @@ Each indicator outlines stages of maturity with a 5-level maturation scale:
 <br/><br/>
 
 Explore details of the indicators and levels of the FEGA Maturity Model on a dedicated <a href="https://inab.github.io/fega-mm/" target="_blank">website</a> or on <a href="https://github.com/inab/fega-mm" target="_blank">GitHub</a>.
-  
 ## 2. Evaluate against the FEGA Maturity Model
 
 Perform a self-assessment of your Node against the <a href="https://docs.google.com/spreadsheets/d/1WgvwwANlRh_OPAy8RY53xfzopFMwstG08zcg3LOTyZQ/copy" target="_blank">FEGA Maturity Model</a>. Use this link to **create a copy** of the Federated EGA Maturity Model Self-Evaluation Google spreadsheet which is private to you and whoever you share it with. This tool is meant to be an evolving evaluation of your Node's progress in each of the FEGA Maturity Model domains and sub-domains. Additionally, it allows you to provide feedback on the model and tool if you choose to share it.
