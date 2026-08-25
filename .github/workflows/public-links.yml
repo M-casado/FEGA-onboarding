@@ -29,9 +29,12 @@ jobs:
       - name: Check relative and external links
         uses: lycheeverse/lychee-action@v2
         with:
+          # Protected resources (for example DOI redirects) may return 401/403;
+          # keep genuine missing pages (404) and server failures (5xx) failing.
           args: >-
             --verbose
             --no-progress
+            --accept '100..=103,200..=299,401,403'
             docs/**/*.md
           fail: true
         env:
