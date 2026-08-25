@@ -24,7 +24,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Check relative and external links
         uses: lycheeverse/lychee-action@v2
@@ -32,7 +32,6 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --exclude-mail
             docs/**/*.md
           fail: true
         env:
